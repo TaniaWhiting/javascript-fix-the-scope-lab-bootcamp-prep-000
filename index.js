@@ -25,7 +25,7 @@ function funkyFunction (){
   }
 }
   
-  return "FUNKY!";
+  return "FUNKY
   }
 
 
